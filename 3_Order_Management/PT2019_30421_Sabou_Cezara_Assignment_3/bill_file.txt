@@ -1,0 +1,4 @@
+Bill 1 created on 1 3 119 at 1555957725611
+Client andrei
+Product vacuum
+With price 78.0

@@ -1,0 +1,5 @@
+Order{orderId=0, tableId=44, orderDate=Thu May 16 01:04:16 EEST 2019}
+Carne pui
+Carne pui
+Cartofi prajiti
+price 31.0

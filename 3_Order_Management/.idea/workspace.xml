@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d82cacb5-ac7d-4bb0-8a2a-acb6c04ec3a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/repo/pt2019_30421_sabou_cezara_assignment_3/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repo/pt2019_30421_sabou_cezara_assignment_3/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/pt2019_30421_sabou_cezara_assignment_3/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repo/pt2019_30421_sabou_cezara_assignment_3/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/pt2019_30421_sabou_cezara_assignment_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repo/pt2019_30421_sabou_cezara_assignment_3/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PT2019_30421_Sabou_Cezara_Assignment_3/src/main/java/presentation/PrintOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="55" column="28" lean-forward="true" selection-start-line="55" selection-start-column="28" selection-end-line="55" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>layout</find>
+      <find>ins</find>
+      <find>client</find>
+      <find>connection</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/repo/pt2019_30421_sabou_cezara_assignment_3" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/presentation/Converter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/presentation/TableConverter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/presentation/Tables/CustomerTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dataaccess/CustomerRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/presentation/ObjectProperty.java" />
+        <option value="$PROJECT_DIR$/src/main/java/presentation/Tables/ClientTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/presentation/Tables/ProductTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/presentation/Tables/OrderTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/presentation/windows/ClientWindow.form" />
+        <option value="$PROJECT_DIR$/src/main/java/dataaccess/ConnectionFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dataaccess/ClientRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/Order.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dataaccess/OrderRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/businesslogic/validators/OrderTotalPriceValidator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/presentation/windows/SpringUtilities.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dataaccess/ProductRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/application/MainApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/businesslogic/validators/ClientBirthdateValidator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/businesslogic/validators/Validator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/businesslogic/validators/OrderDateValidator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/presentation/tables/ClientTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/presentation/tables/OrderTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/presentation/tables/ProductTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/presentation/windows/ClientWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/presentation/windows/OrderWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reflection/ReflectionProperties.java" />
+        <option value="$PROJECT_DIR$/src/main/java/presentation/PrintOrder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/presentation/GUI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/presentation/windows/ProductWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/presentation/windows/PasswordWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/presentation/tables/AbstractTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/ProductOrder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dataaccess/GeneralRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/businesslogic/ClientBLL.java" />
+        <option value="$PROJECT_DIR$/src/main/java/businesslogic/OrderBLL.java" />
+        <option value="$PROJECT_DIR$/src/main/java/businesslogic/ProductBLL.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="610" />
+    <option name="y" value="130" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tema3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tema3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tema3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tema3" type="462c0819:PsiDirectoryNode" />
+              <item name="PT2019_30421_Sabou_Cezara_Assignment_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556009328287" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/dataaccess" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="dataaccess" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\scoala\PT\tema3\src\main\java\presentation\windows" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.MainApplication" />
+      <module name="tema3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d82cacb5-ac7d-4bb0-8a2a-acb6c04ec3a2" name="Default Changelist" comment="" />
+      <created>1555100198757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555100198757</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.1818792" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info id="DB Browser" order="7" weight="0.17718121" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32719547" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.26487252" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3101983" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="DB Execution Console" order="11" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.14630872" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.24966443" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.17919463" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info id="DB Browser" order="7" weight="0.17718121" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32719547" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.26487252" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3101983" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="DB Execution Console" order="11" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.14630872" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.24966443" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="value.getClass().getName()" language="JAVA" />
+        <watch expression="field.getName()" language="JAVA" />
+        <watch expression="objectList.get(rowIndex).getClass().getDeclaredFields()[columnIndex]" language="JAVA" />
+        <watch expression="field.getName()" language="JAVA" />
+        <watch expression="objectList.get(rowIndex)[columnIndex]" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>objectList.get(rowIndex)[columnIndex]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>field.getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>objectList.get(rowIndex).getClass().getDeclaredFields()[columnIndex]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>value.getClass().getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>instance</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>method.invoke(objectList.get(rowIndex)).toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>objectList.get(rowIndex)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>method</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>wantedField.getClass().getSimpleName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>propertyDescriptor</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>type.getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>wantedField.getClass().getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>wantedField</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>wantedField.getClass()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="db://d2ff046e-69ca-4146-b85d-8ca60679d94b/objects/schemas/warehousedb/tables/client_order" />
+    <entry file="db://d2ff046e-69ca-4146-b85d-8ca60679d94b/objects/schemas/warehousedb/tables/order" />
+    <entry file="db://d2ff046e-69ca-4146-b85d-8ca60679d94b/objects/schemas/warehousedb/tables/client" />
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.15/mysql-connector-java-8.0.15.jar!/com/mysql/cj/conf/ConnectionUrl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.15/mysql-connector-java-8.0.15.jar!/com/mysql/cj/jdbc/NonRegisteringDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/presentation/windows/ClientWindow.form" />
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.15/mysql-connector-java-8.0.15.jar!/com/mysql/cj/jdbc/exceptions/SQLError.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.15/mysql-connector-java-8.0.15.jar!/com/mysql/cj/jdbc/exceptions/SQLExceptionsMapping.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.15/mysql-connector-java-8.0.15.jar!/com/mysql/cj/jdbc/ClientPreparedStatement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="764" selection-start-line="764" selection-end-line="764" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/beans/PropertyDescriptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="269" column="31" selection-start-line="269" selection-start-column="31" selection-end-line="269" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="1304" column="18" selection-start-line="1304" selection-start-column="18" selection-end-line="1304" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/JTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="5711" selection-start-line="5711" selection-end-line="5711" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/SwingConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="123" column="32" selection-start-line="123" selection-start-column="32" selection-end-line="123" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/plaf/basic/BasicTableUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29325">
+          <caret line="1811" selection-start-line="1811" selection-end-line="1811" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tema 2/PT2019_30421_SabouCezara_Assignment_2/homework2/src/gui/SimulationView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="151" column="38" selection-start-line="151" selection-start-column="38" selection-end-line="151" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/event/ActionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.15/mysql-connector-java-8.0.15.jar!/com/mysql/cj/jdbc/result/ResultSetImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="1415" selection-start-line="1415" selection-end-line="1415" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bill_file.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/MainApplication.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/businesslogic/validators/ClientBirthdateValidator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/businesslogic/validators/OrderDateValidator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/bill_file.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/bill_4.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/bill_2.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/bill_1.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/bill_0.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataaccess/ClientRepository.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataaccess/OrderRepository.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/presentation/tables/ClientTable.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/presentation/tables/OrderTable.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/presentation/tables/ProductTable.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/presentation/PrintOrder.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/presentation/GUI.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/presentation/windows/SpringUtilities.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/presentation/windows/ProductWindow.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/presentation/windows/PasswordWindow.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/presentation/windows/OrderWindow.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/presentation/windows/ClientWindow.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/ProductOrder.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/businesslogic/OrderBLL.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/businesslogic/ProductBLL.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataaccess/ProductRepository.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Product.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/businesslogic/validators/Validator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/businesslogic/ClientBLL.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataaccess/GeneralRepository.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataaccess/ConnectionFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/presentation/tables/AbstractTable.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/reflection/ReflectionProperties.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/Client.java" />
+    <entry file="file://$PROJECT_DIR$/PT2019_30421_Sabou_Cezara_Assignment_3/src/main/java/presentation/PrintOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="55" column="28" lean-forward="true" selection-start-line="55" selection-start-column="28" selection-end-line="55" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>tema3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.protobuf:protobuf-java:3.6.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

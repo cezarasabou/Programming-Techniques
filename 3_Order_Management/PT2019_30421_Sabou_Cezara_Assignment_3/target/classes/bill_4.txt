@@ -1,0 +1,4 @@
+Bill 4 created on 1 3 119 at 1555963780655
+Client andrei
+Product mug
+With price 40.0

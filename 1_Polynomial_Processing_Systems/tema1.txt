@@ -1,0 +1,7 @@
+﻿adunare polinoame
+Polinom add(Polinom P){
+}
+
+--o aplicatie java sa aiba un titlu
+--pt citire pot folosi StringTokenizer
+--pot folosi butoane

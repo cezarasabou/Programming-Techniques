@@ -1,0 +1,1 @@
+Order{orderId=0, tableId=52, orderDate=Wed May 15 22:00:00 EEST 2019}Carne puiprice 12.5

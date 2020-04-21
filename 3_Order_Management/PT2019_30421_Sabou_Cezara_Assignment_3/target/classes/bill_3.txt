@@ -1,0 +1,4 @@
+Bill 3 created on 1 3 119 at 1555963751262
+Client andrei
+Product bike
+With price 750.0

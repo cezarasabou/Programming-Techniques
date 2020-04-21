@@ -1,0 +1,4 @@
+Bill 2 created on 1 3 119 at 23 : 12
+Client coman crina
+Product corn
+With price 40.0
